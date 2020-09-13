@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "name": "IT Providers",
+        "from": 0,
+        "to": 0,
+        "description": ""
+    },
+    {
+        "id": 1,
+        "name": "Etermax",
+        "from": 0,
+        "to": 0,
+        "description": ""
+    },
+    {
+        "id": 2,
+        "name": "Sofrecom Argentina S.A.",
+        "from": 0,
+        "to": 0,
+        "description": ""
+    },
+    {
+        "id": 3,
+        "name": "Ibermática",
+        "from": 0,
+        "to": 0,
+        "description": ""
+    },
+    {
+        "id": 4,
+        "name": "Octomind",
+        "from": 0,
+        "to": 0,
+        "description": ""
+    }
+]
